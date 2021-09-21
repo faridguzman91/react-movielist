@@ -4,7 +4,7 @@ movielist running react/webpack
 dependencies die hiervoor nodig zijn
 
 ##ESLint
-##Webpabk
+##Webpack
 ##Bootstrap
 ##Babel
 ##NPM/YARN 
